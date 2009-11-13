@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Tie-IxHash-FixedSize
-version:             1.00
+version:             1.01
 abstract:            Tie::IxHash with a fixed maximum size
 license:             ~
 author:              
